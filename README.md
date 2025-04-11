@@ -61,8 +61,6 @@ The repository includes:
 
 Model Definitions: Code for defining and training the CNN models.
 
-DATASET LINK: https://zenodo.org/records/5226945
-
 Data Augmentation: Implementation of data augmentation techniques.
 
 VGG16 Feature Extraction: Code for using VGG16 for feature extraction and adding a custom classifier.
@@ -70,3 +68,5 @@ VGG16 Feature Extraction: Code for using VGG16 for feature extraction and adding
 Training Scripts: Scripts for training the models with specified hyperparameters.
 
 Evaluation Metrics: Plots and metrics for evaluating model performance.
+
+DATASET LINK: https://zenodo.org/records/5226945
